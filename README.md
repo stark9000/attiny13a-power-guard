@@ -97,4 +97,4 @@ Calibrate once per finished board, using the real regulator and divider.
 
 ## License
 
-Add your preferred license here.
+MIT
